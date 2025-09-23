@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@langchain/community": "^0.3.56",
+    "@langchain/openai": "^0.6.13",
+    "@langchain/qdrant": "^0.1.3",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "multer": "^2.0.2",
+    "openai": "^5.22.1"
+  }
+  
+}
